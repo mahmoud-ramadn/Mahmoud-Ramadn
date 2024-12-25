@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** specializing in moder
 ### Frameworks & Libraries
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 - ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+- ![Pinia](https://img.shields.io/badge/-Pinia-F5E547?style=flat&logo=pinia&logoColor=white)
 - ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 - ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
