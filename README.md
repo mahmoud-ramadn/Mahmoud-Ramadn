@@ -38,14 +38,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** specializing in moder
 - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-## 🌟 What I Offer
-- **Frontend Development**: Expert in building responsive and dynamic user interfaces.
-- **Modern Tools**: Proficient in tools like **Tailwind CSS**, **GraphQL**, and **SCSS**.
-- **State Management**: Skilled in using **Redux**, **Redux Toolkit**, and **Zustand** for managing application state.
-- **API Integration**: Experienced in integrating **RESTful** and **GraphQL** APIs.
-- **E-commerce**: Expertise in implementing payment gateways like **Stripe**.
-- **Command Line**: Proficient in using the command line for efficient development workflows.
-
 ## 🎨 **Featured Animations**
 
 <div align="center">
