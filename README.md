@@ -46,14 +46,16 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** specializing in moder
 - **E-commerce**: Expertise in implementing payment gateways like **Stripe**.
 - **Command Line**: Proficient in using the command line for efficient development workflows.
 
----
+## 🎨 **Featured Animations**
 
-## 🚀 Featured Animations
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%" alt="Neon Coding Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45%" alt="Holographic Code Animation" />
+</div>
 
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-![Rocket Animation](https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif)
+*Coding in a holographic future – where innovation meets creativity!*
 
----
+
 
 ## 📫 Let's Connect
 - **GitHub**: [Mahmoud Ramadan](https://github.com/Mahmoud-Ramadn)
