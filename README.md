@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** specializing in moder
 
 ## 📫 Let's Connect
 - **GitHub**: [Mahmoud Ramadan](https://github.com/Mahmoud-Ramadn)
-- **Email**: mr9026573@gmail.com
+- **Email**: mahmoudramdan2000135@gmail.com
 - **Phone**: 01067958518
 - **LinkedIn**: [Mahmoud Ramadan](https://linkedin.com/in/mahmoud-ramadan-aa4b322a5)
 
