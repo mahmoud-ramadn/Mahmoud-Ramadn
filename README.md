@@ -37,7 +37,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/-REST%20API-0052CC?style=flat&logo=api&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
 
 ### Tools & Platforms
